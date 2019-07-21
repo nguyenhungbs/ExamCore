@@ -1,0 +1,23 @@
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.deps.json
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.runtimeconfig.json
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.runtimeconfig.dev.json
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.dll
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.csprojResolveAssemblyReference.cache
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.AssemblyInfo.cs
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.pdb
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.dll
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.deps.json
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.runtimeconfig.json
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.runtimeconfig.dev.json
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\ExamProject.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\Services.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp1.1\Services.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.csprojAssemblyReference.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.AssemblyInfoInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.AssemblyInfo.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.csproj.CopyComplete
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp1.1\ExamProject.pdb

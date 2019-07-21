@@ -1,0 +1,9 @@
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Exam.Libraries\bin\Release\netcoreapp2.2\Exam.Libraries.deps.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Exam.Libraries\bin\Release\netcoreapp2.2\Exam.Libraries.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Exam.Libraries\bin\Release\netcoreapp2.2\Exam.Libraries.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Exam.Libraries\obj\Release\netcoreapp2.2\Exam.Libraries.csprojAssemblyReference.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Exam.Libraries\obj\Release\netcoreapp2.2\Exam.Libraries.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Exam.Libraries\obj\Release\netcoreapp2.2\Exam.Libraries.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Exam.Libraries\obj\Release\netcoreapp2.2\Exam.Libraries.AssemblyInfo.cs
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Exam.Libraries\obj\Release\netcoreapp2.2\Exam.Libraries.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Exam.Libraries\obj\Release\netcoreapp2.2\Exam.Libraries.pdb

@@ -1,0 +1,92 @@
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.deps.json
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.runtimeconfig.json
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.runtimeconfig.dev.json
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Services.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Services.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.csprojAssemblyReference.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.csproj.CoreCompileInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.AssemblyInfoInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.AssemblyInfo.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.csproj.CopyComplete
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.Views.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.Views.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorAssemblyInfo.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorAssemblyInfo.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.TagHelpers.input.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.TagHelpers.output.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorCoreGenerate.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Layout.g.cshtml.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorTargetAssemblyInfo.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorTargetAssemblyInfo.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.Views.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.xml
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.CoreData.xml
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Libraries.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Libraries.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.xml
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.deps.json
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.runtimeconfig.json
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.runtimeconfig.dev.json
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.Views.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.Views.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Libraries.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Services.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.CoreData.xml
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Services.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Libraries.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.csprojAssemblyReference.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorAssemblyInfo.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorAssemblyInfo.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.AssemblyInfo.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.TagHelpers.input.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.TagHelpers.output.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorCoreGenerate.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Layout.g.cshtml.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorTargetAssemblyInfo.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorTargetAssemblyInfo.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.Views.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.csproj.CopyComplete
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.deps.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.runtimeconfig.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.runtimeconfig.dev.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.Views.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Libraries.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Services.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Services.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Libraries.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.csprojAssemblyReference.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorAssemblyInfo.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorAssemblyInfo.cs
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.AssemblyInfo.cs
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.RazorTargetAssemblyInfo.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.csproj.CopyComplete
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\obj\Debug\netcoreapp2.2\Exam.Api.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.Api.xml
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\ExamProject\bin\Debug\netcoreapp2.2\Exam.CoreData.xml

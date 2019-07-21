@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\MvcCore\\MvcCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj",
+        "projectName": "Exam.CoreData",
+        "projectPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Exam.Libraries\\Exam.Libraries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Exam.Libraries\\Exam.Libraries.csproj",
+        "projectName": "Exam.Libraries",
+        "projectPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Exam.Libraries\\Exam.Libraries.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Exam.Libraries\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\MvcCore\\MvcCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\MvcCore\\MvcCore.csproj",
+        "projectName": "MvcCore",
+        "projectPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\MvcCore\\MvcCore.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\MvcCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj": {
+                "projectPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj"
+              },
+              "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Services\\Exam.Services.csproj": {
+                "projectPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Services\\Exam.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.Sentry.AspNetCore": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Services\\Exam.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Services\\Exam.Services.csproj",
+        "projectName": "Exam.Services",
+        "projectPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Services\\Exam.Services.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj": {
+                "projectPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj"
+              },
+              "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Exam.Libraries\\Exam.Libraries.csproj": {
+                "projectPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\Exam.Libraries\\Exam.Libraries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

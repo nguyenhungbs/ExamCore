@@ -1,0 +1,22 @@
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.deps.json
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.runtimeconfig.json
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.runtimeconfig.dev.json
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.AssemblyInfo.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.csprojAssemblyReference.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.deps.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.runtimeconfig.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.runtimeconfig.dev.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\bin\Debug\netcoreapp2.2\SMSIntegrated.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.AssemblyInfo.cs
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\SMSIntegrated\obj\Debug\netcoreapp2.2\SMSIntegrated.csprojAssemblyReference.cache

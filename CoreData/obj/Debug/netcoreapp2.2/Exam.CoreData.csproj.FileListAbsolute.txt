@@ -1,0 +1,30 @@
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.deps.json
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.csproj.CoreCompileInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.AssemblyInfoInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.AssemblyInfo.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.csprojAssemblyReference.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.xml
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.xml
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.deps.json
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.csprojAssemblyReference.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.AssemblyInfo.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.deps.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.AssemblyInfo.cs
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\bin\Debug\netcoreapp2.2\Exam.CoreData.xml
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\CoreData\obj\Debug\netcoreapp2.2\Exam.CoreData.csprojAssemblyReference.cache

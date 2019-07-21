@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Exam.Api</name>
+    </assembly>
+    <members>
+        <member name="M:ExamProject.Controllers.DepartmentController.SearchDepartment(Exam.CoreData.Models.PagingInfo.SearchModel)">
+            <summary>
+            Department list
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.DepartmentController.GetInfoById(System.Int32)">
+            <summary>
+            Department Info by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.DepartmentController.SaveDepartment(Exam.CoreData.Models.Departments.SaveDepartmentModel)">
+            <summary>
+            Save department
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.DepartmentController.DeleteOneDepartment(System.Int32)">
+            <summary>
+            Delete one department
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.DepartmentController.DeleteManyDepartment(Exam.CoreData.Models.Departments.DeleteManyDepartmentModel)">
+            <summary>
+            Delete many department
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.PatientController.SearchPatient(Exam.CoreData.Models.PagingInfo.SearchModel)">
+            <summary>
+            Patient list
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.PatientController.GetInfoById(System.String)">
+            <summary>
+            Patient Info by id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.PatientController.AddPatient(Exam.CoreData.Models.Patients.SavePatientModel)">
+            <summary>
+            Add patient
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.PatientController.UpdatePatient(Exam.CoreData.Models.Patients.SavePatientModel)">
+            <summary>
+            Update patient
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.PatientController.DeleteOnePatient(System.Int32)">
+            <summary>
+            Delete one patient
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ExamProject.Controllers.PatientController.DeleteManyPatient(Exam.CoreData.Models.Patients.DeleteManyPatientModel)">
+            <summary>
+            Delete many patient
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

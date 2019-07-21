@@ -1,0 +1,45 @@
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp2.2\Exam.Services.deps.json
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp2.2\Exam.Services.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp2.2\Exam.Services.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.csprojAssemblyReference.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.csproj.CoreCompileInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.AssemblyInfoInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.AssemblyInfo.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.csproj.CopyComplete
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp2.2\Exam.CoreData.xml
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp2.2\Exam.Libraries.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp2.2\Exam.Libraries.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Services.deps.json
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Services.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Services.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Libraries.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.CoreData.xml
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Libraries.pdb
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.csprojAssemblyReference.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.AssemblyInfo.cs
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.csproj.CopyComplete
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.dll
+C:\Users\hung\Desktop\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Services.deps.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Services.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Services.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Libraries.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.Libraries.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.csprojAssemblyReference.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.AssemblyInfo.cs
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.csproj.CopyComplete
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Debug\netcoreapp2.2\Exam.Services.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Debug\netcoreapp2.2\Exam.CoreData.xml

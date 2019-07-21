@@ -1,0 +1,16 @@
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\CoreData\bin\Debug\netcoreapp1.1\CoreData.deps.json
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\CoreData\bin\Debug\netcoreapp1.1\CoreData.dll
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\CoreData\bin\Debug\netcoreapp1.1\CoreData.pdb
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.csprojResolveAssemblyReference.cache
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.AssemblyInfo.cs
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.dll
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\bin\Debug\netcoreapp1.1\CoreData.deps.json
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\bin\Debug\netcoreapp1.1\CoreData.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\bin\Debug\netcoreapp1.1\CoreData.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.csprojAssemblyReference.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.csproj.CoreCompileInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.AssemblyInfoInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.AssemblyInfo.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\CoreData\obj\Debug\netcoreapp1.1\CoreData.pdb

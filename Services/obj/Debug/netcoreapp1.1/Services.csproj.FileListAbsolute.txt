@@ -1,0 +1,16 @@
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\Services\bin\Debug\netcoreapp1.1\Services.deps.json
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\Services\bin\Debug\netcoreapp1.1\Services.dll
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\Services\bin\Debug\netcoreapp1.1\Services.pdb
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.csprojResolveAssemblyReference.cache
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.AssemblyInfo.cs
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.dll
+c:\users\nguyenngochung\documents\visual studio 2017\Projects\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp1.1\Services.deps.json
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp1.1\Services.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\bin\Debug\netcoreapp1.1\Services.pdb
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.csprojAssemblyReference.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.AssemblyInfoInputs.cache
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.AssemblyInfo.cs
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.dll
+C:\Users\nguyenngochung\Desktop\ExamProject\Services\obj\Debug\netcoreapp1.1\Services.pdb

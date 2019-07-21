@@ -1,0 +1,15 @@
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Release\netcoreapp2.2\Exam.Services.deps.json
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Release\netcoreapp2.2\Exam.Services.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Release\netcoreapp2.2\Exam.Services.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Release\netcoreapp2.2\Exam.CoreData.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Release\netcoreapp2.2\Exam.Libraries.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Release\netcoreapp2.2\Exam.CoreData.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Release\netcoreapp2.2\Exam.Libraries.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Release\netcoreapp2.2\Exam.Services.csprojAssemblyReference.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Release\netcoreapp2.2\Exam.Services.csproj.CoreCompileInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Release\netcoreapp2.2\Exam.Services.AssemblyInfoInputs.cache
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Release\netcoreapp2.2\Exam.Services.AssemblyInfo.cs
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Release\netcoreapp2.2\Exam.Services.csproj.CopyComplete
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Release\netcoreapp2.2\Exam.Services.dll
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\obj\Release\netcoreapp2.2\Exam.Services.pdb
+C:\Users\hung\Desktop\Đồ án các môn Kỳ I - 2018\CommonRepo\NewCoreProject\Services\bin\Release\netcoreapp2.2\Exam.CoreData.xml

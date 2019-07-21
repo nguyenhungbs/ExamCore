@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj",
+        "projectName": "Exam.CoreData",
+        "projectPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\Exam.CoreData.csproj",
+        "packagesPath": "C:\\Users\\hung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hung\\Desktop\\Đồ án các môn Kỳ I - 2018\\CommonRepo\\NewCoreProject\\CoreData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\hung\\Documents": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
